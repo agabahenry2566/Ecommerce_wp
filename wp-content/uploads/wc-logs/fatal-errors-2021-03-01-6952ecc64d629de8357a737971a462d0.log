@@ -1,0 +1,4 @@
+2021-03-01T07:16:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version2\class-wc-rest-order-refunds-v2-controller.php on line 592
+
+2021-03-01T07:16:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-includes\class-wp-image-editor-imagick.php on line 919
+

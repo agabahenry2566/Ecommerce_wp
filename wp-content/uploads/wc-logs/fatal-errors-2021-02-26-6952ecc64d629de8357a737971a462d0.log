@@ -1,0 +1,8 @@
+2021-02-26T08:31:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\elementor-pro\core\app\modules\site-editor\module.php on line 10
+
+r.php on line 8
+
+2021-02-26T08:31:24+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Overrides\OrderTraits.php on line 10
+
+2021-02-26T08:31:27+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\themes\astra\inc\schema\class-astra-schema.php on line 12
+
