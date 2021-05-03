@@ -1,4 +1,0 @@
-2021-03-10T10:09:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\FeaturedCategory.php on line 7
-
-2021-03-10T10:10:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-includes\Requests\Transport\cURL.php on line 463
-
